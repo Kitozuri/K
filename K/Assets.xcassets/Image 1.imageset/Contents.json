@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "96-1729612962-cap-nhat-bao-trami-moi-nhat-1-1729585660188223367627.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
